@@ -2,6 +2,10 @@
     "folders": [
         {
             "path": "../../../../../Volumes/Mates 4TB/PLUGINKY/nový/nový2/samplesss 2025 ss/face_recognition-1.2.2/face_recognition-1.2.2"
+        },
+        {
+            "name": "openai-python",
+            "path": "../../../openai-python"
         }
     ]
 }
